@@ -19,8 +19,6 @@ $(document).ready(function () {
                     innerRadius: "40%",
                     yValueFormatString: "##0\"\"",
                     indexLabel: "{label}: {y}",
-                    showInLegend: "true",
-                    legendText: "{label}",
                     dataPoints: dataPoints
                 }]
             }
