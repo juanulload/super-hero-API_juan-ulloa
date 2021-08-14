@@ -14,10 +14,11 @@ $(document).ready(function () {
                     text: "Estadísticas de Poder"
                 },
                 data: [{
-                    type: 'pie',
+                    type: 'doughnut',
                     startAngle: 240,
+                    innerRadius: "40%",
                     yValueFormatString: "##0\"\"",
-                    indexLabel: "{label} - {y}",
+                    indexLabel: "{label}: {y}",
                     showInLegend: "true",
                     legendText: "{label}",
                     dataPoints: dataPoints
