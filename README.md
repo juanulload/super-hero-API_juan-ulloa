@@ -1,5 +1,5 @@
 Ejericio Final Módulo Front-End
-Bootcamp Full Stack Java Trainee
+<br>Bootcamp Full Stack Java Trainee
 Talento Digital para Chile
 SENCE, EduTecno, Desafío Latam
 
