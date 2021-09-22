@@ -6,4 +6,4 @@ Aplicación dinámica que permite buscar un superhéroe ingresando un ID numéri
 La API se puede encontrar <a href="https://superheroapi.com/#intro">acá.</a>
 <br>
 <br>
-<a href="https://juanulload.github.io/prueba_front_juan-ulloa/">Acceder a página</a>
+
